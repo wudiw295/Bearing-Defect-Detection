@@ -28,7 +28,7 @@ Bearing defect detection plays a crucial role in fault diagnosis and preventive 
 The dataset used in this project is **not uploaded directly** due to GitHub’s file size limitation (100MB).  
 You can download the dataset via the link below and place it in the `data/` directory.
 
-👉 [**Click here to download the dataset**](https://your-dataset-link.com)  
+👉 [**Click here to download the dataset**](https://pan.quark.cn/s/4777df5dac7b)
 
 
 Once downloaded, unzip it as follows:
