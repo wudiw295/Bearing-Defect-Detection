@@ -9,7 +9,7 @@ This repository contains the source code and dataset link for the paper:
 
 ## 📌 Introduction
 
-Bearing defect detection plays a crucial role in the fault diagnosis and preventive maintenance of industrial equipment. This project presents **YOLO-FCMP**, an improved lightweight object detection model based on YOLOv7-tiny, specifically designed for identifying surface defects in bearings with high accuracy and low computational cost.
+Bearing defect detection plays a crucial role in fault diagnosis and preventive maintenance of industrial equipment. This project proposes a lightweight YOLO-FCMP, an improved lightweight object detection model based on YOLOv7-tiny, specifically designed to identify surface defects in bearings, offering high accuracy and low computational cost.
 
 **Highlights:**
 - ⚙️ **FSC Module**: Combines fractional Fourier transform (FrFT), spatial attention, and convolution for enhanced frequency-domain feature representation.
