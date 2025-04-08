@@ -23,6 +23,11 @@ Bearing defect detection plays a crucial role in fault diagnosis and preventive 
 ![image](https://github.com/user-attachments/assets/ef3d2c85-334b-44cc-a93e-3ad20b7efafe)
 
 
+## code
+Please note that the experimental code is located under the master branch, not the default branch. 
+
+
+
 ## 📁 Dataset
 
 The dataset used in this project is **not uploaded directly** due to GitHub’s file size limitation (100MB).  
@@ -37,5 +42,3 @@ Once downloaded, unzip it as follows:
 cd data/
 unzip data.zip
 
-## code
-Please note that the experimental code is located under the master branch, not the default branch. 
