@@ -24,7 +24,7 @@ Bearing defect detection plays a crucial role in fault diagnosis and preventive 
 
 
 ## code
-Please note that the experimental code is located under the master branch, not the default branch. 
+Please note that the experimental code is located under the master branch, not the default branch (main).
 
 
 
