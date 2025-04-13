@@ -1,9 +1,5 @@
 # 🧠 Enhanced Lightweight Bearing Defect Detection via Frequency Domain Analysis and Mode
 
-This repository contains the source code and dataset link for the paper:
-
-**"Enhanced Lightweight Bearing Defect Detection via Frequency Domain Analysis and Mode"**  
-📌  **The Visual Computer (2025)**
 
 ---
 
